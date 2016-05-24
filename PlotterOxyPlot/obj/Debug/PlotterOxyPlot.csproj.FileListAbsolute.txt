@@ -1,0 +1,33 @@
+c:\users\ileossa\documents\visual studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\bin\Debug\PlotterOxyPlot.exe.config
+c:\users\ileossa\documents\visual studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\bin\Debug\PlotterOxyPlot.exe
+c:\users\ileossa\documents\visual studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\bin\Debug\PlotterOxyPlot.pdb
+c:\users\ileossa\documents\visual studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\MainWindow.g.cs
+c:\users\ileossa\documents\visual studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\App.g.cs
+c:\users\ileossa\documents\visual studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot_MarkupCompile.cache
+c:\users\ileossa\documents\visual studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot_MarkupCompile.lref
+c:\users\ileossa\documents\visual studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\MainWindow.baml
+c:\users\ileossa\documents\visual studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot.g.resources
+c:\users\ileossa\documents\visual studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot.Properties.Resources.resources
+c:\users\ileossa\documents\visual studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot.csproj.GenerateResource.Cache
+c:\users\ileossa\documents\visual studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot.exe
+c:\users\ileossa\documents\visual studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot.pdb
+C:\Users\ileossa\Documents\Visual Studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ileossa\Documents\Visual Studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\bin\Debug\OxyPlot.dll
+C:\Users\ileossa\Documents\Visual Studio 2015\Projects\PlotterOxyPlot\PlotterOxyPlot\bin\Debug\OxyPlot.Wpf.dll
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\bin\Debug\PlotterOxyPlot.exe.config
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot.exe
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot.pdb
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\bin\Debug\PlotterOxyPlot.exe
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\bin\Debug\PlotterOxyPlot.pdb
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\bin\Debug\OxyPlot.dll
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\bin\Debug\OxyPlot.Wpf.dll
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot_MarkupCompile.cache
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot_MarkupCompile.lref
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot.g.resources
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot.Properties.Resources.resources
+\\vmware-host\Shared Folders\folder\PlotterOxyPlot\PlotterOxyPlot\obj\Debug\PlotterOxyPlot.csproj.GenerateResource.Cache
